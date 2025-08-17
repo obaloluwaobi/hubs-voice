@@ -1,7 +1,8 @@
-Flask==2.3.5
-soundfile==0.12.1
-torch==2.3.1
-kokoro==0.9.4
-gdown==4.7.1
+Flask
+soundfile
+torch
+kokoro
+gdown
 gunicorn
+
 
